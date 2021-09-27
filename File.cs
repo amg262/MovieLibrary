@@ -106,8 +106,7 @@ namespace MovieLibrary
                 this.logger.Error(e.Message);
             }
         }
-
-
+        
         public void AddMovie(Movie movie)
         {
             try
